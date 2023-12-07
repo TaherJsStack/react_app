@@ -1,0 +1,10 @@
+.invalid{
+  border: 1px solid red;
+  background-color: rgb(243, 132, 132);
+}
+.form{
+  background-color: #4353669c;
+  padding: 13px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}

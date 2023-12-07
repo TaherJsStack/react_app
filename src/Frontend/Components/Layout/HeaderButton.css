@@ -1,0 +1,6 @@
+.HeaderButton{
+  display: flex;
+}
+.HeaderButton span{
+  margin-inline-end: 10px;
+}

@@ -1,0 +1,21 @@
+
+.login-form{
+    background-color: #e2f5f5;
+    position: absolute;
+    top: 3%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+}
+
+
+#form{
+    background-color: #4353669c;
+    padding: 27px;
+    border-radius: 7px;
+    width: 36%;
+    margin: auto;
+}
+
+

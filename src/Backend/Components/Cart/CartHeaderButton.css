@@ -1,0 +1,6 @@
+.CartHeaderButton{
+  display: flex;
+}
+.CartHeaderButton span{
+  margin-inline-end: 10px;
+}

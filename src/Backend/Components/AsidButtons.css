@@ -1,0 +1,23 @@
+.ButtonGroup{
+    background-color: green
+}
+.btn-group-vertical{
+    /* background-color: red; */
+    width: 100%;
+    margin-top: 15vh;   
+}
+
+.btn-group-vertical .btn {
+    text-align: left;
+    color: #fff;
+    background-color: #0c4152
+}
+
+.btn-group-vertical .btn a {
+    color: #fff !important
+}
+
+.active{
+    background-color: antiquewhite;
+    color: #0c4152;
+}

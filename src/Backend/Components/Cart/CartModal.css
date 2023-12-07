@@ -1,0 +1,24 @@
+.cart-modal{}
+
+.price-state{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.product{
+  border-bottom: 1px solid #4f525633;
+  display: flex;
+  align-items: center;
+  padding: 4px 0;
+}
+
+.product-info{
+  display: flex;
+  align-items: center;
+}
+.product-info span{
+  margin-inline-end: 10px;
+}
+.product-info span p{
+  margin-bottom: 0;
+}

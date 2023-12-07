@@ -1,0 +1,24 @@
+.backend {
+    background-color: #0f2933;
+    height: 100vh;
+}
+
+.backend .Container {
+    /* background-color: aqua !important */
+    height: 100vh;
+}
+
+.backend .Container .Asid {
+    background-color: #0f2933;
+    color: #fff;
+    /* text-align: center;
+    margin: auto; */
+    height: 100vh;
+    overflow: auto;
+}
+
+.backend .Container .Sections {
+    background-color: rgb(130 156 189);
+    height: 100vh;
+    overflow: auto;
+}
